@@ -98,7 +98,7 @@ input {
 }
 
 
-input::placeholder {
+input:;placeholder {
     color: var(--color-gray);
     font-size: .9rem;
     font-weight: 500;
