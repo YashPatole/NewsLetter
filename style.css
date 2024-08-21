@@ -57,6 +57,7 @@ body {
 
 .checkmark-list li {
     display: grid;
+    font-size: 1rem;
     grid-template-columns: 2.5rem auto;
 }
 
@@ -105,7 +106,8 @@ input::placeholder {
 
 .form-group {
     display: grid;
-    gap: .5rem;
+    gap: 1rem;
+    margin-top: 1rem;
     font-size: var(--fs-300);
     font-weight: var(--fw-bold);    
 }
